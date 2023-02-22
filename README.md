@@ -47,14 +47,14 @@ In the second photo above, you will see that this is where you create an adminis
 <img src="https://i.imgur.com/yG6gBG5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On to this next step, we will go to our virtual machine's setting page. This is where we will find the IP Address, this is important because we need this to login into our VM on Microsoft Remote Desktop. In the pictures above you will be able to see the VM settings page and where exactly the IP Address is, which is located in the bottom right of the first picture in this step. Copy the IP address and move on to the next step.
+On to this next step, we will go to our virtual machine's setting page. This is where we will find the public IP Address, this is important because we need this to login into our VM on Microsoft Remote Desktop. In the pictures above you will be able to see the VM settings page and where exactly the IP Address is, which is located in the bottom right of the first picture in this step. Copy the IP address and move on to the next step.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IDUvPjJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is the final step, here you will open up your Microsoft Remote Desktop app. You can click "Add PC" and it will ask for either a host name or ip address, this is where you paste the ip address for your virtual machine. Now click on your virtual machine and a prompt should pop up asking for your login information, in some of the earlier steps we created a username and password, you should refer back to those steps for that information. Once you have succesfully logged in you now 
+This is the final step, here you will open up your Microsoft Remote Desktop app. You can click "Add PC" and it will ask for either a host name or ip address, this is where you paste the ip address for your virtual machine. Now click on your virtual machine and a prompt should pop up asking for your login information, in some of the earlier steps we created a username and password, you should refer back to those steps for that information. Once you have now succesfully logged in to your virtual machine. You now have full access to Windows 10 and the functionality of a physical computer but only virtually. Congratulations!
 </p>
 <br />
