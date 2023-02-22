@@ -1,6 +1,6 @@
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of Virtual Machines and how to use it.<br />
+<h1>Virtual Machines - Create and Apply</h1>
+This tutorial outlines the prerequisites to create and apple the use of Virtual Machines.<br />
 
 
 
@@ -15,11 +15,8 @@ This tutorial outlines the prerequisites and installation of Virtual Machines an
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Remote Desktop
+- Azure Subscription
 
 <h2>Installation Steps</h2>
 
